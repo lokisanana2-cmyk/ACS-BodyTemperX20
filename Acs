@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Body Tempering x20 mod"
+git branch -M main
+git remote add origin https://github.com/USERNAME/ACS-BodyTemperX20.git
+git push -u origin main
